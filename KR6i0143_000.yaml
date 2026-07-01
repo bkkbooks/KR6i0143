@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0143/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說琉璃王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0513.xml
+    old_id: T14n0513
+hash: sha256:82c215a8867d731131f8564002ffc73dfec1298255cd7abb27defada15357b55
